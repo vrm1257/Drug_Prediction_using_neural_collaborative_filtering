@@ -7,7 +7,7 @@ This idea is similar to the idea of recommendation systems where the item is rec
 
 To do so, here we are using the Nural collaborative filtering approach to predict the drugs for a specific medical condition. We will be using the Multilayer perceptron model as proposed in a 
 
-## research paper: 
+## Referred research paper: 
 Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat-Seng Chua (2017). Neural Collaborative Filtering. In Proceedings of WWW '17, Perth, Australia, April 03–07, 2017.
 
 
